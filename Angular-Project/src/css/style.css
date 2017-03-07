@@ -1,0 +1,21 @@
+body{
+background:#f2f2f2;
+}
+.navbar-default,.footer,.jumbotron,.content-area{
+background:#fff;
+}
+.content-area{
+padding:15px;
+}
+.footer{
+margin-top:20px;
+padding:10px;
+overflow:hidden	
+}
+.footer p{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.logo_img{
+width:100px;
+}
